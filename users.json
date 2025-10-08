@@ -1,11 +1,5 @@
 [
   {
-    "username": "Mafi",
-    "password": "1",
-    "expiry": "2099-12-31",
-    "hwid": ""
-  },
-  {
     "username": "2",
     "password": "2",
     "expiry": "30026-12-31",
