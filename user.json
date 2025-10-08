@@ -1,1 +1,9 @@
+[
+  {
+    "username": "admin",
+    "password": "1234",
+    "expiry": "2099-12-31",
+    "hwid": ""
+  }
+]
 
