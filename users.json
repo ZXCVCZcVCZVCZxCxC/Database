@@ -10,5 +10,11 @@
     "password": "12",
     "expiry": "2026-12-31",
     "hwid": ""
+  },
+  {
+    "username": "12",
+    "password": "12",
+    "expiry": "2099-12-31",
+    "hwid": ""
   }
 ]
