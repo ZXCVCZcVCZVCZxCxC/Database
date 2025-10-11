@@ -76,5 +76,11 @@
     "password": "1",
     "expiry": "2026-4-20",
     "hwid": ""
+  },
+  {
+    "username": "SK",
+    "password": "1",
+    "expiry": "2026-4-20",
+    "hwid": ""
   }
 ]
